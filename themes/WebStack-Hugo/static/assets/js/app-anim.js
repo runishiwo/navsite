@@ -237,12 +237,10 @@
     }
     //返回顶部
     $(window).scroll(function () {
-        if ($(this).scrollTop() >= 50) {
+        if ($(this).scrollTop() >= 200) {
             $('#go-to-up').fadeIn(200);
-            $('.big-header-banner').addClass('header-bg');
         } else {
             $('#go-to-up').fadeOut(200);
-            $('.big-header-banner').removeClass('header-bg');
         }
     });
     $('.go-up').click(function () {

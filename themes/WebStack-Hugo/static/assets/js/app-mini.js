@@ -235,14 +235,13 @@
             $(".mode-ico").addClass("icon-night");
         }
     }
+    
     //返回顶部
     $(window).scroll(function () {
-        if ($(this).scrollTop() >= 50) {
+        if ($(this).scrollTop() >= 200) {
             $('#go-to-up').fadeIn(200);
-            $('.big-header-banner').addClass('header-bg');
         } else {
             $('#go-to-up').fadeOut(200);
-            $('.big-header-banner').removeClass('header-bg');
         }
     });
     $('.go-up').click(function () {
@@ -251,7 +250,7 @@
         }, 500);
     return false;
     }); 
-
+    
  
     //滑块菜单
     $('.slider_menu').children("ul").children("li").not(".anchor").hover(function() {

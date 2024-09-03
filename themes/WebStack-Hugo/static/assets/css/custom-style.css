@@ -6,9 +6,6 @@ body,html{font-size:14px;}
 .sidebar-popup.sidebar-menu-inner ul{width:90px}
 .sidebar-popup.sidebar-menu-inner ul li{width:90px}
 
-/*隐藏左导航scrollbar*/
-.sidebar-menu.flex-fill::-webkit-scrollbar{display:none}
-
 /*搜索框搜索图标颜色*/
 #search button i{color:#6C757D;font-size:18px}
 
@@ -89,13 +86,14 @@ body,html{font-size:14px;}
 }
 
 footer.main-footer .footer-text {
-    text-align: center;
+    text-align: left;
 }
 footer.main-footer .footer-text a {
-    color: #007bff;
+    color: #b1b1b1;
+    font-weight: 550;
 }
 footer.main-footer .footer-text a:hover {
-    color: red;
+    color: #9e9e9e;
 }
 
 /*About页面*/
@@ -106,12 +104,7 @@ footer.main-footer .footer-text a:hover {
 .io-grey-mode .page-container .grid-bg {
     background-image: linear-gradient(rgba(50, 0, 0, 0.05) 1px, transparent 0), linear-gradient(90deg, rgba(50, 0, 0, 0.05) 1px, transparent 0); 
     background-size: 15px 15px;
-    background-color: #d8d8d8;
-}
-
-/*导航 Logo 图标裁剪边角*/
-.url-card .url-img > img {
-    border-radius: 20%;
+    background-color: #ffffff;
 }
 
 

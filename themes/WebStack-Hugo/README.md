@@ -4,25 +4,24 @@
 
 ## 主题开源地址
 
-- **GitCode：** [https://gitcode.com/shenweiyan/WebStack-Hugo](https://gitcode.com/shenweiyan/WebStack-Hugo/overview)
-- **GitHub：** [https://github.com/shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo)
+- GitHub：[https://github.com/shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo)
+- Gitee：[https://gitee.com/shenweiyan/WebStack-Hugo](https://gitee.com/shenweiyan/WebStack-Hugo)
 
 ## 主题演示地址
 
-- 站点：[https://bioit.top](https://bioit.top)
-- 源码：<https://github.com/shenweiyan/Bioit-top>
+- [https://bioit.top](https://bioit.top) （源码地址：<https://github.com/shenweiyan/NavBioIT>）
+- [https://so.gd.cn](https://so.gd.cn)
 
 
 ## 特色功能
 
-这是 Hugo 版 WebStack 主题。可以借助下面的平台直接托管部署，无需服务器。
-- [Webify](https://webify.cloudbase.net/) | [Netlify](https://app.netlify.com/) | [Cloudflare Pages](https://pages.cloudflare.com) | [Vercel](https://vercel.com) | [Github Pages](https://pages.github.com/)
+这是 Hugo 版 WebStack 主题。可以借助 Github Pages 或者 Coding 直接托管部署，无需服务器。
 
 总体说一下特点：
 
-- 采用了一直以来最喜欢的 Hugo 部署方式，方便高效。
-- 主要的配置信息都集成到了 `config.toml`，一键完成各种自定义的配置。
-- 导航的各个信息都集成在 `data/webstack.yml` 文件中，方便后续增删改动。
+- 采用了一直以来最喜欢的 hugo 部署方式，方便高效。
+- 主要的配置信息都集成到了 config.toml，一键完成各种自定义的配置。
+- 导航的各个信息都集成在 data/webstack.yml 文件中，方便后续增删改动。
 ```
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
@@ -56,17 +55,14 @@
 
 这是一个开源的公益项目，你可以拿来制作自己的网址导航，也可以做与导航无关的网站。
 
-WebStack 有非常多的魔改版本，这是其中一个。如果你对本主题进行了一些个性化调整，欢迎来本项目中 [issue](https://github.com/shenweiyan/WebStack-Hugo/issues) 分享一下！
+WebStack 有非常多的魔改版本，这是其中一个。如果你对本主题进行了一些个性化调整，欢迎来本项目中 issue 分享一下！
 
 
 ## 安装说明
 
-关于 Windows/Linux 下详细的安装与使用说明，请参考文档。
+关于 Windows/Linux 下详细的安装与使用说明，请参考文档：
 
-> [!TIP] 
-> 链接1：**[shenweiyan/Knowledge-Garden#10](https://github.com/shenweiyan/Knowledge-Garden/discussions/10)**
-> 
-> 链接2：**<https://weiyan.cc/kg-discussions-10>**
+[WebStack-Hugo | 一个静态响应式导航主题](https://www.yuque.com/shenweiyan/cookbook/webstack-hugo) - [语雀](https://www.yuque.com/shenweiyan)
 
 
 ## 感谢
@@ -77,18 +73,13 @@ WebStack 有非常多的魔改版本，这是其中一个。如果你对本主�
 - [liutongxu/liutongxu.github.io](https://github.com/liutongxu/liutongxu.github.io)
 - [iplaycode/webstack-hugo](https://github.com/iplaycode/webstack-hugo)
 
-感谢以下所有朋友对本主题所做出的贡献。  
-- [@yuanj82](https://github.com/yuanj82)        
-- [@yanbeiyinhanghang](https://github.com/yinhanghang)     
-- [@jetsung](https://github.com/jetsung)
+感谢以下所有朋友对本主题所做出的贡献。
+
+[@yanbeiyinhanghang](https://github.com/yinhanghang) [@jetsung](https://github.com/jetsung)
 
 ## 赞赏
 
 如果你觉得本项目对你有所帮助，欢迎请作者喝杯热咖啡 >.<
 
 ![donate-wecaht-aliapy](https://user-images.githubusercontent.com/26101369/212630361-aa393be8-581e-4a97-bfe2-256e883791fb.jpg)
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=shenweiyan/WebStack-Hugo&type=Date)](https://star-history.com/#shenweiyan/WebStack-Hugo&Date)
 
