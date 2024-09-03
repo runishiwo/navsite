@@ -5,19 +5,19 @@
   links: 
     - title: OP
       logo: 语雀.webp
-      url: http://rdp.ssrits.com:8989/cgi-bin/luci/
+      url: https://op-l.corp.xlclan.com
       description: OpenWrt
     - title: PVE
       logo: qq邮箱.png
-      url: https://rdp.ssrits.com:18006
+      url: https://pve-l.corp.xlclan.com
       description: PVE
     - title: 宝塔面板
       logo: 开源中国.jpg
-      url: https://bt.ssrits.com:2333/d5f3a77e
+      url: https://bt-l.corp.xlclan.com/d5f3a77e
       description: 中文开源技术交流社区。
     - title: WOL
       logo: 开源中国.jpg
-      url: http://rdp.ssrits.com:8090/
+      url: https://wol-l.corp.xlclan.com
       description: WOL在线唤醒
     - title: GitHub
       logo: github.png
