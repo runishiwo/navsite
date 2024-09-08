@@ -10,11 +10,15 @@
     - title: 青龙面板
       logo: 青龙.png
       url: https://ql.ssrits.com:1111
-      description: 中文开源技术交流社区。
+      description: 签到面板。
+    - title: QD
+      logo: QD.jpg
+      url: https://qd.ssrits.com:1111
+      description: 签到面板。
     - title: 1Panel
       logo: 1Panel.png
       url: https://1panel.ssrits.com:1111
-      description: 中文开源技术交流社区。
+      description: Linux运维面板。
     - title: WOL
       logo: 开机键.png      
       url: https://wol.ssrits.com:1111
