@@ -5,27 +5,27 @@
   links: 
     - title: OP
       logo: 路由器.png
-      url: https://op.ssrits.com:1111
+      url: https://op.ssrits.com:88
       description: OpenWrt
     - title: 青龙面板
       logo: 青龙.png
-      url: https://ql.ssrits.com:1111
+      url: https://ql.ssrits.com:88
       description: 签到面板。
     - title: QD
       logo: QD.png
-      url: https://qd.ssrits.com:1111
+      url: https://qd.ssrits.com:88
       description: 签到面板。
     - title: 1Panel
       logo: 1Panel.png
-      url: https://1panel.ssrits.com:1111
+      url: https://1panel.ssrits.com:88
       description: Linux运维面板。
     - title: WOL
       logo: 开机键.png      
-      url: https://wol.ssrits.com:1111
+      url: https://wol.ssrits.com:88
       description: WOL在线唤醒
     - title: PVE
       logo: pves.png
-      url: https://pve.ssrits.com:1111
+      url: https://pve.ssrits.com:88
       description: PVE
     - title: GitHub
       logo: github.png
