@@ -25,7 +25,7 @@
       description: WOL在线唤醒
     - title: PVE
       logo: pves.png
-      url: https://pve.ssrits.com:88
+      url: https://pve.ssrits.com:881
       description: PVE
     - title: GitHub
       logo: github.png
