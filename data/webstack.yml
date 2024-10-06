@@ -3,7 +3,7 @@
 - taxonomy: 个人站点
   icon: far fa-star
   links: 
-    - title: iKuai1
+    - title: iKuai
       logo: 路由器.png
       url: https://op.ssrits.com:88
       description: OpenWrt
