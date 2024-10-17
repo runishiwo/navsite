@@ -22,7 +22,7 @@
     - title: Speedtest
       logo: 测速.png
       url: https://speedtest.ssrits.com:88/
-      description: OpenWrt
+      description: 网络测速
     - title: WOL
       logo: 开机键.png      
       url: https://wol.ssrits.com:88
