@@ -19,6 +19,10 @@
       logo: 1Panel.png
       url: https://1panel.ssrits.com:88
       description: Linux运维面板。
+    - title: Speedtest
+      logo: 测速.png
+      url: https://speedtest.ssrits.com:88/
+      description: OpenWrt
     - title: WOL
       logo: 开机键.png      
       url: https://wol.ssrits.com:88
